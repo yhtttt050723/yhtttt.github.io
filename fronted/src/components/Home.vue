@@ -3,18 +3,18 @@
     <div class="home-content">
       <div class="avatar-container">
         <div class="avatar">
-          <img src="https://via.placeholder.com/200x200?text=Avatar" alt="个人头像" />
+          <img src="../../public/Main.jpg" alt="个人头像" />
         </div>
       </div>
       
       <div class="intro">
-        <h1 class="name">您的名字</h1>
+        <h1 class="name">闫鹤天</h1>
         <p class="title">前端开发工程师 | 后端开发工程师</p>
         
         <div class="bio">
           <p>
             我是一名专注于全栈开发的工程师，热爱编程和新技术探索。
-            在大学期间，我积极参与各类项目和竞赛，积累了丰富的开发经验。
+            在大学期间，我积极参与各类项目和竞赛(包括CTF等安全竞赛)，积累了丰富的开发经验。
             擅长使用 Vue.js、Spring Boot 等技术栈构建现代化的 Web 应用。
           </p>
         </div>

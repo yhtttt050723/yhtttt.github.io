@@ -1,11 +1,12 @@
 <script setup>
 const competitions = [
   {
-    name: '蓝桥杯全国软件和信息技术专业人才大赛',
-    time: '2023年',
-    award: '省级一等奖',
-    contribution: '负责算法设计和核心功能实现，团队协作完成项目开发',
-    certificate: 'https://via.placeholder.com/300x200?text=Certificate'
+    name: '2025第三届全国高校网络安全攻防活动',
+    time: '2025年',
+    award: '国家级三等奖 上海市二等奖',
+    contribution: '负责Web,Crypto相关题目解答,Web服务器防护',
+    certificate1: '../../public/SafeCer.png',
+    certificate2:'../../public/SafeCerNation.png'
   },
   {
     name: 'AcWing 算法竞赛',

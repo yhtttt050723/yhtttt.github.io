@@ -44,7 +44,7 @@ const handleSubmit = async (e) => {
             <div class="method-icon">📧</div>
             <div>
               <strong>邮箱</strong>
-              <p>your.email@example.com</p>
+              <p>519275808@qq.com</p>
             </div>
           </div>
           
@@ -52,7 +52,7 @@ const handleSubmit = async (e) => {
             <div class="method-icon">📱</div>
             <div>
               <strong>电话</strong>
-              <p>+86 138-0000-0000</p>
+              <p>+86 195-5655-9685</p>
             </div>
           </div>
           

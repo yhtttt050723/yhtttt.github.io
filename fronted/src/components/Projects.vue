@@ -1,27 +1,29 @@
 <script setup>
 const projects = [
   {
-    name: '项目名称 1',
-    description: '这是一个项目描述，展示项目的主要功能和技术特点。',
-    tech: ['Vue.js', 'Spring Boot', 'MySQL'],
-    role: '前端开发、数据库设计',
-    achievement: '项目成功上线，获得用户好评',
-    link: 'https://github.com',
-    image: 'https://via.placeholder.com/400x250?text=Project+1'
+    name: '安全网站分析系统',
+    description: '随着网络安全威胁的不断升级，传统的基于规则的安全分析工具已难以满足需求。本项目开发了一款基于AI的网站安全分析系统，专注于提升检测效率和准确性。该系统利用机器学习算法自动识别网站中的安全漏洞、恶意代码及钓鱼攻击，并实时监控网站安全状态，及时预警潜在风险。\n' +
+        '本项目的亮点在于其强大的互动性和智能化水平。通过分布式爬虫技术，系统能够实时搜集最新数据，并使用先进的AI模型（如ResNet18和Transformer）对网页图像和文本进行深度分析，精准判断网站是否存在黄色、赌博或诈骗等风险。此外，前端采用Vue框架实现直观的数据可视化展示，后端则使用FastApi确保系统的高效响应。\n' +
+        '与传统工具相比，此方案不仅增强了安全检测的准确性和效率，还提供了详细的多维度安全报告，帮助用户更好地理解并管理网站安全性。因此，本系统在提高互联网环境的安全性方面展现了巨大的潜力和价值。',
+    tech: ['Vue.js', 'Spring Boot', 'Python'],
+    role: '前端开发',
+    achievement: '市级大创项目,上海市计算机应用能力大赛国家级二等奖',
+    link: 'https://github.com/caodong0225/frontend#',
+    image: '../../public/WebSafe.png'
   },
   {
-    name: '项目名称 2',
+    name: '项目管理与过程改进学习网站',
     description: '这是一个项目描述，展示项目的主要功能和技术特点。',
-    tech: ['React', 'Node.js', 'MongoDB'],
-    role: '全栈开发',
+    tech: ['Vue3','SpringBoot'],
+    role: '项目经理 全栈开发',
     achievement: '项目在比赛中获得一等奖',
-    link: 'https://github.com',
+    link: 'https://github.com/yhtttt050723/USST_SPM_COURSE',
     image: 'https://via.placeholder.com/400x250?text=Project+2'
   },
   {
-    name: '项目名称 3',
+    name: '大学生信息资源分享平台',
     description: '这是一个项目描述，展示项目的主要功能和技术特点。',
-    tech: ['Vue.js', 'Python', 'Flask'],
+    tech: ['Vue.js','SpringBoot'],
     role: '后端开发、API 设计',
     achievement: '优化了系统性能，响应时间提升 50%',
     link: 'https://github.com',

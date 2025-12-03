@@ -14,17 +14,14 @@
         <div class="education-details">
           <h3 class="school-name">上海理工大学</h3>
           <p class="degree">本科 | 计算机科学与技术</p>
-          <p class="period">2020年 - 2024年</p>
+          <p class="period">2023年 - 2027年</p>
           
           <div class="academic-performance">
             <div class="gpa">
               <span class="label">GPA：</span>
-              <span class="value">3.8 / 4.0</span>
+              <span class="value">3.6/ 4.5</span>
             </div>
-            <div class="ranking">
-              <span class="label">专业排名：</span>
-              <span class="value">前 10%</span>
-            </div>
+
           </div>
           
           <div class="achievements">
@@ -32,20 +29,18 @@
             <ul>
               <li>多次获得校级奖学金</li>
               <li>参与科研项目 2 项</li>
-              <li>发表学术论文 1 篇</li>
-              <li>担任课程助教</li>
             </ul>
           </div>
           
           <div class="courses">
             <h4>核心课程：</h4>
             <div class="course-tags">
-              <span>数据结构与算法</span>
+              <span>数据结构</span>
               <span>计算机网络</span>
-              <span>数据库系统</span>
+              <span>数据库系统(双语)</span>
               <span>操作系统</span>
-              <span>软件工程</span>
-              <span>机器学习</span>
+              <span>人工智能</span>
+              <span>项目管理与过程改进</span>
             </div>
           </div>
         </div>
